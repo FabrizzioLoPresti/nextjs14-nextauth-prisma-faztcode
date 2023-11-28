@@ -26,6 +26,7 @@ Nextjs 14 Project using:
     - API Routes using Route Handlers API
     - params and searchParams in Route Handlers API
     - Client and Server Components ('use client' and 'use server')
+    - Server Actions using useFormStatus and useTransition React Hooks from react for Delete Button
 - ESLint
 - NextAuth
   - Middlewares for Protected Routes
